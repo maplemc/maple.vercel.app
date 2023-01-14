@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply antialiased;
+  }
+
+  body {
+    @apply bg-white dark:bg-black-900;
+  }
+
+  ::selection {
+    @apply dark:bg-cyan-400/30;
+  }
+}

@@ -1,2 +1,1 @@
-# maple.vercel.app
-🌌 Official Maple website.
+# stylextv.vercel.com
